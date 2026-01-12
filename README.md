@@ -35,3 +35,19 @@ This project was developed to practice React fundamentals such as component-base
 
 ## 📂 Project Structure
 
+```text
+react-quiz-app/
+├── public/
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+├── quizapp.gif
+└── README.md
+
+
