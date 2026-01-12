@@ -1,4 +1,3 @@
-# React-Quiz-App
 # React Quiz App 🎯
 
 An interactive quiz application built using **React** and **Vite**.  
